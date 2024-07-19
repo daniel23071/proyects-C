@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697578939 source:c:\users\jhony\documents\universidad\semestre 10\electiva ii\taller\perceptron_simple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
